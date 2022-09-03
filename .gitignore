@@ -9,4 +9,4 @@ yarn-error.log*
 
 .env.js
 .env.prod.js
-*.log
+log/
