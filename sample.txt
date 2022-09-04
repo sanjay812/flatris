@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 I am  Sanjay, currently working as a Digital Engineer in Tata Digital
-=======
-I am  Sanjay, currently working as a Digital Engineer in Tata Digital
->>>>>>> realwork
+
